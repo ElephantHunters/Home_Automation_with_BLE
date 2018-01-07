@@ -1,4 +1,4 @@
-#Home Automation with Arduino 101 using Bluetooth Low Energy #
+# Home Automation with Arduino 101 using Bluetooth Low Energy 
 
 This project is about controlling Christmas lights,a 5 Watt CFL and a Fan through Arduino/Genuino 101 
 consisting of Intel Curie module using Bluetooth Low Energy through a Android Smartphone. The components
